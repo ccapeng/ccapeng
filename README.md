@@ -1,9 +1,12 @@
 # Alex Tech Solution Provider
 
-## Fun Facts
-- Hiking around New Jersey
-- Simple nature expression
-- Ladybug squad
+## Some ideas
+- [Workflow UI](https://github.com/ccapeng/bpmn-workflow)
+- [React deployment protection](https://github.com/ccapeng/bookstore_pro)
+- CRUD, REST to GraphQL, then to gRPC
+    - Check my [bookstore project](https://ccapeng.gitbook.io/bookstores)
+- Secure REST API call with JWT
+    - Can it also be done by blockchain?
 
 ## Websites
 - [Homepage](https://ccapeng.github.io)
