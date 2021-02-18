@@ -4,7 +4,8 @@
 - [Workflow UI](https://github.com/ccapeng/bpmn-workflow)
 - [React deployment protection](https://github.com/ccapeng/bookstore_pro)
 - CRUD, REST to GraphQL, then to gRPC
-    - Qucik prototype demo in one day
+    - Qucik prototype demo in one day.
+    - Qucik start your learning.
     - Check my [bookstore project](https://ccapeng.gitbook.io/bookstores)
 - Secure REST API call with JWT
     - Can it also be done by blockchain?
