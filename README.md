@@ -1,7 +1,7 @@
 # Alex Tech Solution Provider
 
 ## Some ideas
-- [Workflow UI](https://github.com/ccapeng/rss-trendy)
+- [RSS News](https://github.com/ccapeng/rss-trendy)  
   Experiment topic modeling base on news feed.
 - [Workflow UI](https://github.com/ccapeng/bpmn-workflow)
 - [React deployment protection](https://github.com/ccapeng/bookstore_pro)
