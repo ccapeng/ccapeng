@@ -1,7 +1,7 @@
 # Alex Tech Solution Provider
 
 ## Some ideas
-- [Document Aggregator](https://github.com/ccapeng/doc-angular)  
+- [Document Aggregator by Angular](https://github.com/ccapeng/doc-angular)  
 - [RSS News](https://github.com/ccapeng/rss-trendy)  
   Experiment topic modeling base on news feed.
 - [Earthquakes](https://github.com/ccapeng/earthquakes)  
